@@ -1,2 +1,2 @@
 # HPC_cw
-higher performance computing
+Project of higher performance computing
